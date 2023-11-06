@@ -1,0 +1,6 @@
+[submodule "country-service-backend"]
+	path = country-service-backend
+	url = https://github.com/GalievDev/country-service-backend
+[submodule "country-service-frontend"]
+	path = country-service-frontend
+	url = https://github.com/GalievDev/country-service-frontend
